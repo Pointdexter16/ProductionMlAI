@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 29,
+    "gender": "female",
+    "height_cm": 165,
+    "weight_kg": 68,
+    "bmi": 24.98,
+    "blood_pressure": "120/80",
+    "heart_rate": 72
+  },
+  {
+    "id": 2,
+    "name": "Bob Singh",
+    "age": 45,
+    "gender": "male",
+    "height_cm": 175,
+    "weight_kg": 85,
+    "bmi": 27.76,
+    "blood_pressure": "130/85",
+    "heart_rate": 78
+  },
+  {
+    "id": 3,
+    "name": "Carlos Reyes",
+    "age": 52,
+    "gender": "male",
+    "height_cm": 160,
+    "weight_kg": 95,
+    "bmi": 37.11,
+    "blood_pressure": "145/95",
+    "heart_rate": 90
+  },
+  {
+    "id": 4,
+    "name": "Diana Lee",
+    "age": 34,
+    "gender": "female",
+    "height_cm": 158,
+    "weight_kg": 54,
+    "bmi": 21.63,
+    "blood_pressure": "115/75",
+    "heart_rate": 68
+  }
+]
